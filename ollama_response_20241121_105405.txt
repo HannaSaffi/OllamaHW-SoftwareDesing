@@ -1,0 +1,5 @@
+Prompt: What places do you recommend me visiting in Paraguay?
+
+Response:
+
+Error occurred: Connection refused
