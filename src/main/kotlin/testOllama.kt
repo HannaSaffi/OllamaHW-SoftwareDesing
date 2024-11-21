@@ -11,7 +11,7 @@ fun main() = runBlocking {
         println("Sending request to Ollama...")
         val result = client.generateResponse(
             model = "llama3.2",
-            prompt = "What places do you recommend me visiting in Paraguay?" // My home country :D
+            prompt = "What places do you recommend me visiting in Paraguay?" // My home country :)
         )
 
         when (result) {
